@@ -1,0 +1,17 @@
+[
+  {
+    "id": "66b72566-a166-46d7-b13c-709e148c7884",
+    "name": "Sled dogs",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/d4b72541-a1c6-46d7-b13c-709e148c7884.svg",
+    "relations": [
+      {
+        "id": "e0561c26-6d8b-42ae-88df-3047873e929a",
+        "type": "breed"
+      },
+      {
+        "id": "e6541c16-658b-41ae-16df-30476666929a",
+        "type": "breed"
+      }
+    ]
+  }
+]

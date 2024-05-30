@@ -60,7 +60,7 @@ class JsonManipulator {
         let groupsData = groups
         let newData: Group[] = []
 
-        groupsData.data.map(data => {
+        groupsData.map(data => {
             let item = new Group(
                 data.id,
                 data.attributes.name,

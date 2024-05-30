@@ -54,8 +54,6 @@ app.use(express.static(__dirname + '/public'));
 
 app.get("/dogs", (req: Request, res: Response) => {
     res.status(200).send(dogs)
-
-    console.log("/dogs called " + req.body)
 })
 
 app.get("/groups", (req: Request, res: Response) => {

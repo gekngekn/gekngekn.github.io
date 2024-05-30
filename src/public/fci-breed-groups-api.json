@@ -1,0 +1,90 @@
+[
+  {
+    "id": "bzns10yc-xiby-5n0v-7gon-vahnux7xcf6u",
+    "name": "Sheepdogs",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/bzns10yc-xiby-5n0v-7gon-vahnux7xcf6u.svg",
+    "relations": []
+  },
+  {
+    "id": "7efsjel4-eynw-b5v0-dy6j-ss3r54v0pdg3",
+    "name": "Pinscher and Schnauzer",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/7efsjel4-eynw-b5v0-dy6j-ss3r54v0pdg3.svg",
+    "relations": []
+  },
+  {
+    "id": "vg8cci7f-un8j-3c8j-4hot-ahehj4s43fc0",
+    "name": "Terriers",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/vg8cci7f-un8j-3c8j-4hot-ahehj4s43fc0.svg",
+    "relations": [
+      {
+        "id": "e0561c26-6d8b-42ae-88df-3047873e929a",
+        "type": "breed"
+      },
+      {
+        "id": "e6541c16-658b-41ae-16df-30476666929a",
+        "type": "breed"
+      }
+    ]
+  },
+  {
+    "id": "6yuy6bn7-ytpg-p2y8-myun-vborciueuh0a",
+    "name": "Dachshunds",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/6yuy6bn7-ytpg-p2y8-myun-vborciueuh0a.svg",
+    "relations": []
+  },
+  {
+    "id": "kgxd94gw-cqbj-a94m-ipbv-1za0zizprgs9",
+    "name": "Spitz",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/kgxd94gw-cqbj-a94m-ipbv-1za0zizprgs9.svg",
+    "relations": []
+  },
+  {
+    "id": "339hnlrw-9nfx-frtt-to5q-i04z1czjc636",
+    "name": "Scent hounds",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/339hnlrw-9nfx-frtt-to5q-i04z1czjc636.svg",
+    "relations": []
+  },
+  {
+    "id": "e7lgdaub-8ymx-ge60-neso-74fvlairaxuu",
+    "name": "Pointing Dogs",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/e7lgdaub-8ymx-ge60-neso-74fvlairaxuu.svg",
+    "relations": []
+  },
+  {
+    "id": "krfcsa1q-td4o-2iz6-2k2c-5opotuo62nbj",
+    "name": "Retrievers",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/krfcsa1q-td4o-2iz6-2k2c-5opotuo62nbj.svg",
+    "relations": []
+  },
+  {
+    "id": "dnng9xk7-rnjy-u3uv-ro94-i6edp6qe91tc",
+    "name": "Toy Dogs",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/dnng9xk7-rnjy-u3uv-ro94-i6edp6qe91tc.svg",
+    "relations": []
+  },
+  {
+    "id": "ovewomv3-ro1q-cm3w-3byj-3u4t0gcd6e10",
+    "name": "Sighthounds",
+    "type": "fci-breed",
+    "imgUrl": "https://gekngekn.github.io/src/public/images/ovewomv3-ro1q-cm3w-3byj-3u4t0gcd6e10.svg",
+    "relations": [
+      {
+        "id": "e0561c26-6d8b-42ae-88df-3047873e929a",
+        "type": "breed"
+      },
+      {
+        "id": "e6541c16-658b-41ae-16df-30476666929a",
+        "type": "breed"
+      }
+    ]
+  }
+]
